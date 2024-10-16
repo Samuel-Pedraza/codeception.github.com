@@ -484,9 +484,9 @@ Installation template which will help your users to start testing on their proje
 
 Codeception has built-in installation templates for
 
-* [Acceptance tests](https://github.com/Codeception/Codeception/blob/4.0/src/Codeception/Template/Acceptance.php)
-* [Unit tests](https://github.com/Codeception/Codeception/blob/4.0/src/Codeception/Template/Unit.php)
-* [REST API tests](https://github.com/Codeception/Codeception/blob/4.0/src/Codeception/Template/Api.php)
+* [Acceptance tests](https://github.com/Codeception/Codeception/blob/5.0.0/src/Codeception/Template/Acceptance.php)
+* [Unit tests](https://github.com/Codeception/Codeception/blob/5.0.0/src/Codeception/Template/Unit.php)
+* [REST API tests](https://github.com/Codeception/Codeception/blob/5.0.0/src/Codeception/Template/Api.php)
 
 They can be executed with `init` command:
 
